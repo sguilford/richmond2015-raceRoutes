@@ -11,6 +11,12 @@ Mapping the race routes as [Google Maps Polyline paths](https://developers.googl
   * Saturday, 9.19.2015 | Team Time Trial Training | 9:00 a.m. to 12:00 p.m.
   * Sunday, 9.20.2015 | Women&rsquo;s Team Time Trial | 11:30 a.m. to 12:55 p.m.
   * Sunday, 9.20.2015 | Men&rsquo;s Team Time Trial | 1:30 p.m. to 3:35 p.m.
+* Time Trial Circuit
+  * Saturday, 9.19.2015 | Time Trial Training | 1:00 p.m. to 2:30 p.m.
+  * Monday, 9.21.2015 | Women&rsquo;s Junior Time Trial | 10:00 a.m. to 11:10 a.m.
+  * Monday, 9.21.2015 | Men&rsquo;s Under 23 Time Trial | 11:30 a.m. to 3:50 p.m.
+  * Tuesday, 9.22.2015 | Men&rsquo;s Junior Time Trial | 9:30 a.m. to 1:05 p.m.
+  * Tuesday, 9.22.2015 | Women&rsquo;s Elite Time Trial | 1:30 p.m. to 4:45 p.m.
 * Men's Elite Individual Time Trial
   * Wednesday, 9.23.2015 | Men&rsquo;s Elite Individual Time Trial | 1:00 p.m. to 3:35 p.m.
 * Road Circuit

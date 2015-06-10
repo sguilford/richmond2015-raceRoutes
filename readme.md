@@ -3,10 +3,14 @@
 
 ### Race routes as Google Maps Polyline paths
 
-Mapping the race routes as [Google Maps Polyline paths](https://developers.google.com/maps/documentation/javascript/shapes#polyline_add) "by hand" with Google&rsquo;s direction service doing the heavy lifting.
+Mapping the race routes as [Google Maps Polyline paths](https://developers.google.com/maps/documentation/javascript/shapes#polyline_add) &ldquo;by hand&rdquo; with Google&rsquo;s direction service doing the heavy lifting.
 
 #### Race routes mapped
 
+* Team Time Trial
+  * Saturday, 9.19.2015 | Team Time Trial Training | 9:00 a.m. to 12:00 p.m.
+  * Sunday, 9.20.2015 | Women&rsquo;s Team Time Trial | 11:30 a.m. to 12:55 p.m.
+  * Sunday, 9.20.2015 | Men&rsquo;s Team Time Trial | 1:30 p.m. to 3:35 p.m.
 * Men's Elite Individual Time Trial
   * Wednesday, 9.23.2015 | Men&rsquo;s Elite Individual Time Trial | 1:00 p.m. to 3:35 p.m.
 * Road Circuit

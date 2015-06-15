@@ -3,7 +3,7 @@
 
 ### Race routes as Google Maps Polyline paths
 
-Mapping the race routes as [Google Maps Polyline paths](https://developers.google.com/maps/documentation/javascript/shapes#polyline_add) &ldquo;by hand&rdquo; with Google&rsquo;s direction service doing the heavy lifting.
+Mapping the race routes as [Google Maps Polyline paths](https://developers.google.com/maps/documentation/javascript/shapes#polyline_add) &ldquo;by hand&rdquo; with Google&rsquo;s direction service doing the heavy lifting. Based on the routes found at [Richmond2015.com](http://richmond2015.com/about/courses/).
 
 #### Race routes mapped
 
